@@ -6,3 +6,8 @@ Métodos de classificação:
     Boosted Trees
     Random Forest
     Neural Networks
+
+Objetivos:
+    Identificar qual modelo melhor se adequa ao problema
+    Identificar quais variáveis são mais significativas
+    Desenvolver um modelo satisfatório utilizando menos variáveis
